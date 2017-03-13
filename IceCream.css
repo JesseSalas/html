@@ -1,0 +1,55 @@
+table{
+  width: 90%;
+
+}
+
+table, th, td {
+   border: 1px inset black;
+   height: 90px;
+}
+th{
+  background-color: Red;
+}
+td{
+  background-color: Red;
+}
+
+.Hot{
+  background-image: url("Images/HotFudgeSunday.jpg");
+  color: red;
+  background-position: center;
+  text-align: center;
+  font-size: 40px
+}
+.McFlurry{
+  background-image: url("Images/M&MMcFlurry.jpg");
+  background-position: center;
+    color: red;
+    text-align: center;
+    font-size: 40px
+}
+.Chocolate{
+  background-image: url("Images/ChocolateIceCream.jpg");
+  background-position: center;
+  color: red;
+  text-align: center;
+  font-size: 40px
+}
+.Vanilla{
+  background-image: url("Images/VanillaIceCream.jpg");
+  background-position: center;
+  color: red;
+  text-align: center;
+  font-size: 40px
+}
+.CookieDough{
+  background-image: url("Images/cookieDoughIceCream.png");
+  background-position: center;
+  color: red;
+  text-align: center;
+  font-size: 40px
+}
+
+h1{
+  text-align: center;
+}
